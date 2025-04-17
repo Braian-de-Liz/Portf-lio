@@ -11,6 +11,26 @@ body{
 }
 
 #sobre{
-    margin: 30px 300px;
+    margin: 30px 250px;
     border: 1px solid white;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex img{
+    padding: ;
+    margin: 10px;
+    width: 150px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.titulo{
+
+}
+
+.subtitulo{
+
 }
