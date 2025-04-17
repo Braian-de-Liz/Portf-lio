@@ -1,0 +1,16 @@
+body{
+    margin : 30px 200px;
+    background-color: #141C21;
+    color: white;
+    text-align: center;
+}
+
+#cabelho{
+    border-color: aliceblue;
+    border: 1px solid ; 
+}
+
+#sobre{
+    margin: 30px 300px;
+    border: 1px solid white;
+}
